@@ -23,11 +23,11 @@ I'm a dedicated web developer passionate about crafting clean, efficient, and sc
 --- 
 ## 🔗 Find me on
 
-[![GitHub](https://img.shields.io/badge/GitHub-najmeh25-black?style=for-the-badge&logo=github)](https://github.com/najmeh25)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marjan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marjan-ghasemi-b21a3434b)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://github.com/najmeh25/personal-portfolio-main)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://my-portfolio.vercel.app)
+
 
 ---
 
